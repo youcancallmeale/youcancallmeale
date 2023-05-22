@@ -4,8 +4,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesandrobarbosa&hide=html&layout=compact&theme=vue-dark" /></td>
-        <td><img width="455px" align="left" src="https://github-readme-stats.vercel.app/api?username=alesandrobarbosa&theme=vue-dark&show_icons=true"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youcancallmeale&hide=html&layout=compact&theme=vue-dark" /></td>
+        <td><img width="455px" align="left" src="https://github-readme-stats.vercel.app/api?username=youcancallmeale&theme=vue-dark&show_icons=true"/></td>
     </tr>   
   </table>
 </center>  
@@ -49,7 +49,7 @@ Abroad Experiences working as Front end:
 
 [![Linkedin: Alesandro Barbosa](https://img.shields.io/badge/-alesandrobarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alesandrobarbosa)](https://www.linkedin.com/in/alesandrobarbosa/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barbosa.alesandro@gmail.com)](mailto:barbosa.alesandro@gmail.com) 
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521983451493&text=Olá!)](https://api.whatsapp.com/send?phone=5521983451493&text=Olá!) 
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521994986241&text=Olá!)](https://api.whatsapp.com/send?phone=5521994986241&text=Olá!) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlesandroBarbosa.AlesandroBarbosa) 
 
 ---
